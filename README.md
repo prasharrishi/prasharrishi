@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=435&lines=%F0%9F%99%8FNamaste+!+Welcome+to+my+GIT.)](https://git.io/typing-svg)
 # 💫 About Me:
-I am currently pursuing my bachelor's degree in Computer Science <br>Engineering at SRM Institute of Science and Technology.<br>I am passionate about App Development, Web 3.0, and UI/UX Design.<br>🔭 I’m currently working with Java and Kotlin in App Development.<br>👯 I’m looking to collaborate on AI projects.<br>🤝 I’m looking for help with React and Web Development<br>🌱 I’m currently learning Flutter and Dart.<br>💬 Ask me about Java & Android App Dev<br>⚡ Fun fact : Enjoy the little things in life.
+I am currently working in LTIMindtree <br>Graduate from SRM Institute of Science and Technology.<br>I am passionate about App Development, Web 3.0, and UI/UX Design.<br>🔭 I’m currently working with Automation testing and Postman.<br>👯 I’m looking to collaborate on AI projects.<br>🤝 I’m looking for help in Automation Fields<br>🌱 I’m currently learning Flutter and Dart.<br>💬 Ask me about Java, Selenium & Android App Dev<br>⚡ Fun fact : Enjoy the little things in life.
 
 
 ## 🌐 Socials:
